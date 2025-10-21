@@ -1,1 +1,1 @@
-# character-creator
+# Education task
